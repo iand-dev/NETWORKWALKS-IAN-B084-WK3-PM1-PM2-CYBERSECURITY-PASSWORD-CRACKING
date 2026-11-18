@@ -42,9 +42,9 @@ During Week 3, I learned how password cracking works from both a command-line/GU
 ![NW Password Cracker](screenshot5.PNG)
 
 ### PDF Flag 1
-![PDF Flag 1](screenshot1.PNG)
+![PDF Flag 1](screenshot3.PNG)
 
 ### PDF Flag 2
-![PDF Flag 2](screenshot2.PNG)
+![PDF Flag 2](screenshot4.PNG)
 
 
