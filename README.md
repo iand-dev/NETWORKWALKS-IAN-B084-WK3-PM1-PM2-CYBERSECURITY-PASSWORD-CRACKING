@@ -35,3 +35,16 @@ I used the Networkwalks Hash Calculator to extract the hash from the locked PDF 
 During Week 3, I learned how password cracking works from both a command-line/GUI perspective and a browser-based perspective. The exercise highlighted the importance of strong password policies and encryption. All activities were performed within the authorized scope of my own lab and Networkwalks' internship guidelines.
 
 ## 8. Evidence
+### John the Ripper - Cracked Password
+![Johnny Cracked](screenshot1.PNG)
+
+### Networkwalks Password Cracker - Cracked Password
+![NW Password Cracker](screenshot5.PNG)
+
+### PDF Flag 1
+![PDF Flag 1](screenshot1.PNG)
+
+### PDF Flag 2
+![PDF Flag 2](screenshot2.PNG)
+
+
